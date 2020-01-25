@@ -1,0 +1,15 @@
+<html lang="en">
+<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="style.css">
+</head>
+<body>
+		<svg>
+				<use href="#wrapper"></use>
+				<symbol id="wrapper">
+					<text x="50%" y="50%" text-anchor="middle">Modal</text>
+				</symbol>
+		</svg>
+</body>
+</html>
